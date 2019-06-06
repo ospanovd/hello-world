@@ -1,3 +1,5 @@
 # hello-world
-#My name is Daniyar.
-#I'm starting to learn GItHub
+
+HELLO!
+My name is Daniyar.
+I'm starting to learn GItHub
